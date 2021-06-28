@@ -1,2 +1,2 @@
 # TikTokAuto
-pythonIDcode
+TiktokAuto
